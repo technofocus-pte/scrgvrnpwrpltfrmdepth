@@ -1,6 +1,6 @@
-# **Lab 3: Creating a flow using the cloud flows designer with Copilot (preview)**
+# **Lab 3: Creating a flow using the cloud flows designer with Copilot**
 
-## **Task 1: Create a flow using Copilot**
+### **Task 1: Create a flow using Copilot**
 
 1.  Sign in to <https://make.powerautomate.com/> with your Office 365
     admin tenant credentials.
