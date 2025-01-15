@@ -14,10 +14,10 @@ for each theme as it relates to governing Power Platform.
 
 1.  Open new tab in the same browser and navigate to **Microsoft 365
     admin
-    center** using [**https://admin.microsoft.com**](urn:gd:lg:a:send-vm-keys).
+    center** using +++**https://admin.microsoft.com**+++.
     Sign in with your Office 365 tenant credentials.
 
-2.  Select **Teams & groups** \> **Active teams & groups**.
+2.  Select **Teams & groups** > **Active teams & groups**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image1.png)
@@ -28,9 +28,9 @@ for each theme as it relates to governing Power Platform.
 > ![A screenshot of a computer Description automatically
 > generated](./media/image2.png)
 
-4.  Add the group Name: [**PPS-security**
-    and** Description:**](urn:gd:lg:a:send-vm-keys) Power Platform
-    architecture and governance security group and then click **Next**.
+4.  Add the group Name: **PPS-security**
+    and Description:**Power Platform
+    architecture and governance security group*** and then click **Next**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image3.png)
@@ -61,7 +61,7 @@ for each theme as it relates to governing Power Platform.
 > ![](./media/image8.png)
 
 10. Select the first three users (For example here, Adele, Alex and
-    Allan) to add to the security group and then select **Add(3).**
+    Allan) to add to the security group and then select **Add(3)**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image9.png)
@@ -74,43 +74,38 @@ for each theme as it relates to governing Power Platform.
 12. You have completed this task, please do not close the tab and 
     proceed ahead with the next task.
 
-**Task 2: Associate a security group with a Dataverse environment**
+### **Task 2: Associate a security group with a Dataverse environment**
 
 1.  Open new tab and navigate to Power Platform admin center
-    using [**https://admin.powerplatform.microsoft.com**](urn:gd:lg:a:send-vm-keys) and
+    using +++**https://admin.powerplatform.microsoft.com**+++ and
     if required, sign in with your Office 365 tenant credentials. 
 
 2.  Enable the toggle switch for ‘Try new admin center’.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image11.png)
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image12.png)
+     ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
-3.  In the navigation pane, select **Manage \>** **Environments**, and
+     ![A screenshot of a computer Description automatically generated](./media/image12.png)
+
+3.  In the navigation pane, select **Manage*** > **Environments**, and
     then select **+New**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image13.png)
+     ![A screenshot of a computer Description automatically generated](./media/image13.png)
 
 4.  On the New environment window, enter the following information.
 
-> **Name:** Test
->
-> Region: United States – Default
->
-> Type: Trial
->
-> Add a Dataverse data store: Yes
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image14.png)
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image15.png)
+     **Name**: Test
+    
+     **Region**: United States – Default
+    
+     **Type**: Trial
+    
+     **Add a Dataverse data store**: Yes
 
-5.  Dfdf
+     ![A screenshot of a computer Description automatically generated](./media/image14.png)
+
+     ![A screenshot of a computer Description automatically generated](./media/image15.png)
+
+5.  Select **Language**: English (United States), **Currency**: USD. Click on **+Select** under **Security group**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image16.png)
@@ -137,48 +132,7 @@ for each theme as it relates to governing Power Platform.
 In this exercise, you will be creating an environment, creating a flow,
 and then viewing the impact of adding a DLP policy.
 
-Task 1: Create a trial environment
-
-1.  Switch back to **Power Platform Admin Center** tab or navigate
-    to [**https://admin.powerplatform.microsoft.com**](urn:gd:lg:a:send-vm-keys) and
-    sign in with your Office 365 tenant credentials.
-
-2.  Select **Environments** and click **+ New**. Enter below details.
-
-    - **Name -**  [**DLP-policy trial env**](urn:gd:lg:a:send-vm-keys)
-
-    - **Region –** United States - default
-
-    - **Type** - Trial
-
-    - **Add a Dataverse data store**  - Yes and click **Next**.
-
-> ![](./media/image19.png)
-
-3.  Enter the following details.
-
-[TABLE]
-
-> ![](./media/image20.png)
-
-4.  Select **None** under Open access security group and then click on
-    **Done**.
-
-![](./media/image21.png)
-
-5.  Click on **Save**.
-
-> ![](./media/image22.png)
-
-6.  Wait for the environment to be created. The state will change
-    to **Ready** when the environment is ready.
-
-> ![](./media/image23.png)
-
-7.  You have completed this task, without closing the tab, proceed ahead
-    with the next task.
-
-**Task 2: Create a flow to get the weather**
+### **Task 1: Create a flow to get the weather**
 
 1.  Switch back to **Power Apps maker
     portal** [**https://make.powerapps.com**](urn:gd:lg:a:send-vm-keys) tab
@@ -295,13 +249,13 @@ Task 1: Create a trial environment
 23. You have completed this task, please do not close the tab. Proceed
     ahead with the next exercise.
 
-**Task 3: Create a DLP Policy**
+### **Task 2: Create a DLP Policy**
 
 In this task you will create an environment specific DLP and see how it
 impacts your working flow.
 
 1.  Switch back to **Power Platform admin center**
-    [**https://admin.powerplatform.microsoft.com**](https://admin.powerplatform.microsoft.com) tab
+    **https://admin.powerplatform.microsoft.com** tab
     and make sure you have signed in with your Office 365 Admin tenant
     credentials.
 
@@ -322,12 +276,12 @@ impacts your working flow.
 > ![A screenshot of a computer Description automatically
 > generated](./media/image44.png)
 
-5.  Enter name of the policy **- PP-Datapolicy** and click **Next**.
+5.  Enter name of the policy **PP-Datapolicy** and click **Next**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image45.png)
 
-6.  Search for [**Dataverse**](urn:gd:lg:a:send-vm-keys) ,
+6.  Search for **Dataverse**,
     select **Microsoft Dataverse**, and click **Move to Business**. 
     Choose carefully, you may have to expand the Name column to
     differentiate between connectors in your search results.
@@ -426,7 +380,7 @@ impacts your working flow.
 
 ## **Exercise 3: Microsoft Dataverse teams management**
 
-**Task 1: Access your team's page**
+### **Task 1: Access your team's page**
 
 1.  Switch back to the **Power Platform Admin Center** tab or navigate
     to [**https://admin.powerplatform.microsoft.com**](urn:gd:lg:a:send-vm-keys) and
@@ -452,7 +406,7 @@ impacts your working flow.
 > ![A screenshot of a computer Description automatically
 > generated](./media/image64.png)
 
-**Task 2: Create a new team**
+### **Task 2: Create a new team**
 
 1.  Select **+ Create team**.
 
@@ -461,7 +415,7 @@ impacts your working flow.
 
 2.  Specify the following fields:
 
-    - **Team name:** [**PPS -Test- Team**](urn:gd:lg:a:send-vm-keys)
+    - **Team name:** +++**PPS -Test- Team**+++
 
     - **Description:** Power Platform
 
@@ -478,44 +432,41 @@ impacts your working flow.
 
     - Click **Next**
 
-> ![](./media/image66.png)
+     ![](./media/image66.png)
 
 3.  On the Manage security roles pane, scroll down and select **System
     administrator** role and then click on **Save**.
 
 4.  Again click on **Save**.
 
-> ![](./media/image67.png)
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image68.png)
+     ![](./media/image67.png)
 
-**Task 3: Manage the security roles of a team**
+     ![A screenshot of a computer Description automatically generated](./media/image68.png)
+
+### **Task 3: Manage the security roles of a team**
 
 1.  Select the checkbox for a recently created team – **PPS-Test-Team**.
     Select **Manage security roles**.
 
-> ![](./media/image69.png)
+     ![](./media/image69.png)
 
 2.  Select **AIB SML Roles**, and then click **Save**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image70.png)
->
-> ![](./media/image71.png)
+     ![A screenshot of a computer Description automatically generated](./media/image70.png)
+
+     ![](./media/image71.png)
 
 3.  You have completed this task, please stab back in the same tab and
     proceed ahead with the next task.
 
-**Task 4: Delete a team**
+### **Task 4: Delete a team**
 
 1.  Select the checkbox for a team name. Select **Delete** twice to
     confirm. Note that this action can't be undone.
 
-> ![](./media/image72.png)
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image73.png)
+     ![](./media/image72.png)
+
+     ![A screenshot of a computer Description automatically generated](./media/image73.png)
 
 2.  You have completed the exercise, please do not close the browser.
     Proceed ahead with the next lab.
