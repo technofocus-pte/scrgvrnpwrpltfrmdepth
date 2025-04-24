@@ -99,38 +99,38 @@
 
      ![A screenshot of a computer Description automatically generated](./media/image15.png)
 
-17. From the right side of the screen, select **Test** and ‘Test your
+16. From the right side of the screen, select **Test** and ‘Test your
     agent’ pane will open.
 
      **Note**: Close the ‘Edit with copilot’ pane for more visibility.
     
      ![](./media/image16.png)
 
-18. In the Test your agent pane, enter the following trigger phrase and
+17. In the Test your agent pane, enter the following trigger phrase and
     click on send icon.
 
      +++I want to book a real estate showing+++
     
      ![](./media/image17.png)
 
-19. [The agent responds with the "What is your full name?" question, as
-    shown in the following image.](urn:gd:lg:a:send-vm-keys)
+18. The agent responds with the "What is your full name?" question, as
+    shown in the following image.
 
      ![A screenshot of a computer Description automatically generated](./media/image18.png)
 
-20. Enter the rest of the information:
+19. Enter the rest of the information:
 
-     **Full name:** <Your name>
+     **Full name:** Enter your name
     
-     **Email address:** <Your email address>
+     **Email address:** Enter your email address
     
-     **Address:** 555 Oak Lane, Denver, CO 80203
+     **Address:** +++555 Oak Lane, Denver, CO 80203+++
     
-     **Date and Time:** 10/10/2025 10:00 AM
+     **Date and Time:** +++10/10/2025 10:00 AM+++
     
      ![A screenshot of a chat Description automatically generated](./media/image19.png)
 
-21. To test the ‘add knowledge’ property, enter +++What is Microsoft Power
+20. To test the ‘add knowledge’ property, enter +++What is Microsoft Power
     Platform?+++ The agent retrieves information from the website which we
     have provided while creating an agent and returns a response.
 
