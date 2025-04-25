@@ -44,43 +44,55 @@
 
 ### **Task 2: Creating Microsoft 365 Users**
 
-1.  Navigate to the Microsoft 365 admin center using
-    +++https://admin.microsoft.com+++
+1.  Open Import_Users_Contoso.csv file from **C:\Labfiles** folder on your Lab VM.
 
-2.  From the left navigation, select **Users** > **Active users** page,
-    you can see the users.
+2.  Under the Username column, update the tenant name to reflect your Office 365 tenant name for each user in the list and then save as a CSV format file.
 
-     ![](./media/image9.png)
+    E.g. if your Office 365 tenant is admin@LODSA7xx479.onmicrosoft.com, your domain would be LODSA7xx479.
+   
+    eg : brookeg@LODSA7xx479.onmicrosoft.com
 
-3.  On the **Active users** page, select the users those are having
-    licenses assigned (except MOD Admin) then click on **Reset
-    password**.
+3.  Navigate to the Microsoft 365 admin center using +++https://admin.microsoft.com+++ 
 
-     ![A screenshot of a computer Description automatically generated](./media/image10.png)
+4.  From the left navigation, select **Users** > **Active users** page, click **Add multiple users**.
 
-11. To reset the same password for all the users, uncheck all check
-    boxes and enter password as
-    : +++Pa$$w0rd@124+++ and then click
-    on **Reset password**.
+     ![A screenshot of a computer Description automatically generated](./media/image4.1.png)
 
-     ![A screenshot of a computer Description automatically generated](./media/image11.png)
+5.  On the Upload a CSV file with user info pane, select **I’d like to upload a CSV with user information** and then click **Browse**. 
 
-12. On the Reset password pane, click **Close**.
+     ![A screenshot of a computer screen Description automatically generated](./media/image5.1.png)
 
-     ![A screenshot of a computer screen Description automatically generated](./media/image12.png)
+6. In the Open dialog box, navigate **C:\Labfiles\ Import_Users_Contoso.csv** and click **Open**.
 
-13. Now **select all the above users** again those are having licenses
-    assigned (except MOD Admin) and then click on **Manage product
-    licenses**.
+     ![A screenshot of a computer Description automatically generated](./media/image6.1.png)
 
-     ![A screenshot of a computer Description automatically generated](./media/image13.png)
+7. Once the CSV file passed verification, click **Next**.
 
-14. On **Manage product licenses** pane, select **Assign more**, check
-    the checkbox for **Microsoft Power Apps for Developer** license and
-    then select **Save changes**.
+     ![A screenshot of a computer Description automatically generated](./media/image7.1.png)
 
-     ![A screenshot of a computer Description automatically generated](./media/image14.png)
+    **NOTE**: If you receive an error message, review your CSV file for errors, and fix them
 
-15. Once the licenses are assigned, select **Done**.
+8. On the Licenses pane, select all licenses check boxes and click **Next**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image15.png)
+     ![A screenshot of a computer Description automatically generated](./media/image8.1.png)
+
+9. On the **Review and finish adding multiple users** pane, click **Add users**.
+
+    ![A screenshot of a computer Description automatically generated](./media/image9.1.png)
+
+10. On the **You added 11 users** pane, click **Close**.
+
+    ![A screenshot of a computer Description automatically generated](./media/image10.1.png)
+
+11. On the **Active users** page, select all the new users, (except MOD Admin) then click on **Reset password**.
+
+    ![A screenshot of a computer Description automatically generated](./media/image11.1.png)
+
+12. To reset the same password for all the users, uncheck all check boxes and enter password as : +++Pa$$w0rd@124+++ and then click on **Reset password**.
+
+    ![A screenshot of a computer Description automatically generated](./media/image12.1.png)
+
+13. On the **Reset password** pane, click **Close**.
+
+    ![A screenshot of a computer Description automatically generated](./media/image12.1.png)
+
