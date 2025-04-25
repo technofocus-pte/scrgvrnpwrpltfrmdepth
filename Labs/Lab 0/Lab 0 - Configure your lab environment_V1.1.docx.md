@@ -9,6 +9,8 @@
 
 2.  Select **Start free**.
 
+    **Note**: If **Start free** is not working, zoom in (ctrl--) on the current screen and select **Sign in** from the to-right corner. 
+     
      ![A person with his arms crossed Description automatically generated](./media/image2.png)
 
 3.  Enter your **Office 365 admin credential**, check the checkbox to
