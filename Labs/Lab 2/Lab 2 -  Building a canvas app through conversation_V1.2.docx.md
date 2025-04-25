@@ -8,13 +8,14 @@ to generate data for the lab and the data changes daily.
 
 1.  Sign into Power
     Apps [***https://make.powerapps.com/***](urn:gd:lg:a:send-vm-keys) using
-    your Office 365 tenant credentials.
+    your Office 365 tenant credentials. Make sure that **Try the new Power Apps experience** switch is **disabled**. If not, then disable it.
+
+    ![A screenshot of a computer Description automatically generated](./media/image1.1.png)
 
 2.  Ensure that you are in your developer environment - **Dev One**. If
     not, click on the environment selector and select **Dev One**.
 
-> ![A screenshot of a computer Description automatically
-> generated](./media/image1.png)
+> ![A screenshot of a computer Description automatically generated](./media/image1.png)
 
 3.  On the Home page in Power Apps, in the center text field, enter the
     following prompt to search for an AI-generated table:
