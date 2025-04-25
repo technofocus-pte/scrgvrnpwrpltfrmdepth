@@ -1,18 +1,18 @@
 # **Lab 8: Manage Dataverse auditing**
 
-## Exercise 1: Manage Dataverse auditing
+## **Exercise 1: Manage Dataverse auditing**
 
 ### **Task 1: Start/stop auditing for an environment and set retention policy**
 
 1.  Sign in to the Power Platform admin center using
     +++https://admin.powerplatform.microsoft.com+++
-    with your Office 365 admin tenant credentials.
+    with your Office 365 admin tenant credentials.**Enable** the **New admin center** switch.
 
 2.  Select **Manage** > **Environments** from left navigation.
 
     ![A screenshot of a computer Description automatically generated](./media/image1.png)
 
-3.  Select **Dev One** environment and then select More commands (three
+3.  Select **Dev One** environment and then select **More commands** (three
     dots) from above horizontal palette and then select **Settings**.
 
     ![](./media/image2.png)
@@ -43,7 +43,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/image5.png)
 
-3.  Select Tables from left navigation pane and then click to open
+3.  Select **Tables** from left navigation pane and then click to open
     the **Expense Report** Table.
 
     ![A screenshot of a computer Description automatically generated](./media/image6.png)
@@ -56,8 +56,8 @@
 
     ![A screenshot of a computer Description automatically generated](./media/image8.png)
 
-6.  Expand the **Advanced options** section. Select the** Enable
-    auditing **checkbox and then click on **Save**.
+6.  Expand the **Advanced options** section. Select the **Enable
+    auditing** checkbox and then click on **Save**.
 
     ![](./media/image9.png)
 
