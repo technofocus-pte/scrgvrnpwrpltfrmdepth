@@ -30,7 +30,7 @@
     agent by naming it, selecting the language, and also optionally choosing
     if you want to boost your conversations with generative answers.
 
-7.  Name your bot as **Real Estate Booking Service** and then click
+7.  Name your agent as +++Real Estate Booking Service+++ and then click
     on **+Add knowledge.**
 
      ![A screenshot of a computer Description automatically generated](./media/image6.png)
@@ -78,8 +78,8 @@
 14. In the **Create a topic to...** field, enter the following text and
     then select **Create**.
 
-     collect a user's full name, email, address of the property, and date
-     and time of the showing
+     +++Collect a user's full name, email, address of the property, and date
+     and time of the showing+++
     
      ![A screenshot of a computer Description automatically generated](./media/image12.png)
     
