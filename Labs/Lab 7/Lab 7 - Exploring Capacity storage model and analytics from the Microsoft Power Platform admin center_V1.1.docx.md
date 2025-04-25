@@ -1,6 +1,6 @@
-## Lab 7: Exploring Capacity storage model and analytics from the Microsoft Power Platform admin center
+# **Lab 7: Exploring Capacity storage model and analytics from the Microsoft Power Platform admin center**
 
-### Task 1: Explore the Power Platform Admin View app
+### **Task 1: Explore the Power Platform Admin View app**
 
 1.  Switch back to **Power Platform admin center** tab or open new tab
     and navigate
@@ -100,7 +100,7 @@
 22. You have completed this task, please do not close the browser .
     Proceed ahead with the next exercise.
 
-### Task 2: Enable tenant-level analytics
+### **Task 2: Enable tenant-level analytics**
 
 1.  Select the **Overview** tab. Select **Enable** to redirect to
     the **Analytics** pane.
