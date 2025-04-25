@@ -44,7 +44,7 @@ for each theme as it relates to governing Power Platform.
 
      ![A screenshot of a computer Description automatically generated](./media/image6.png)
 
-8.  Select the group you created, select **Members** tab and then click
+8.  Click on the group you created, select **Members** tab and then click
     on **View all and managed members** hyper link.
 
      ![A screenshot of a computer Description automatically generated](./media/image7.png)
@@ -84,7 +84,7 @@ for each theme as it relates to governing Power Platform.
 
 4.  On the New environment window, enter the following information.
 
-     **Name**: Test
+     **Name**: +++Test+++
     
      **Region**: United States – Default
     
@@ -145,7 +145,7 @@ and then viewing the impact of adding a DLP policy.
 
      ![Screenshot](./media/image27.png)
 
-6.  Search msn and select **Get current weather** **MSN Weather**.
+6.  Search **msn** and select **Get current weather**. 
 
      ![](./media/image28.png)
 
@@ -159,7 +159,7 @@ and then viewing the impact of adding a DLP policy.
 
      ![](./media/image30.png)
 
-9.  Provide your email for **To** and enter +++Current Weather+++ for **Subject**.
+9.  Enter **brooke** in the **To** field and select **brookeg@LODSA7xx479.onmicrosoft.com** email from the suggestion. Enter +++Current Weather+++ for **Subject**.
 
 10. Click on the Body enter +++Current weather for:+++ and select **Location** from the
     Dynamic content pane.
@@ -167,7 +167,7 @@ and then viewing the impact of adding a DLP policy.
      ![A screenshot of a computer Description automatically generated](./media/image31.png)
 
 11. Hit the **ENTER** key,
-    enter ++Temperature:+++ and
+    enter +++Temperature:+++ and
     select **Temperature** form the Dynamic content pane.
 
 12. Hit the **ENTER** key,
@@ -212,7 +212,7 @@ and then viewing the impact of adding a DLP policy.
 
 21. Open new tab and browse
     to +++https://outlook.office.com+++ sign
-    in with +++christiec@LODSA7xx479.onmicrosoft.com+++ (change the domain name in your log in id) and
+    in with +++brookeg@LODSA7xx479.onmicrosoft.com+++ (change the domain name in your log in id) and
     Password: +++Pa$$w0rd@124+++
 
 22. You should get an email with the weather information.
@@ -237,8 +237,7 @@ impacts your working flow.
 
      ![A screenshot of a computer Description automatically generated](./media/image42.png)
 
-3.  Select **Security** from left navigation pane. Select **Access
-    control** and then select **Data policy**.
+3.  Select **Security** from left navigation pane. Select **Data and privacy** and then select **Data policy**.
 
      ![A screenshot of a computer Description automatically generated](./media/image43.png)
 
@@ -250,19 +249,19 @@ impacts your working flow.
 
      ![A screenshot of a computer Description automatically generated](./media/image45.png)
 
-6.  Search for **Dataverse**,
+6.  Search for +++Dataverse+++,
     select **Microsoft Dataverse**, and click **Move to Business**. 
     Choose carefully, you may have to expand the Name column to
     differentiate between connectors in your search results.
 
      ![A screenshot of a computer Description automatically generated](./media/image46.png)
 
-7.  Search for **SharePoint**, select **SharePoint,** and click **Move
+7.  Search for +++SharePoint+++, select **SharePoint,** and click **Move
     to Business**.
 
      ![A screenshot of a computer Description automatically generated](./media/image47.png)
 
-8.  Search for **Outlook**, select **Office 365 Outlook,** and
+8.  Search for +++Outlook+++, select **Office 365 Outlook,** and
     click **Move to Business**.
 
      ![A screenshot of a computer Description automatically generated](./media/image48.png)
@@ -366,9 +365,9 @@ impacts your working flow.
 
 2.  Specify the following fields:
 
-    - **Team name:** +++**PPS -Test- Team**+++
+    - **Team name:** +++PPS -Test- Team+++
 
-    - **Description:** Power Platform
+    - **Description:** +++Power Platform+++
 
     - **Business unit:** Type org and select it from suggestion box
 
