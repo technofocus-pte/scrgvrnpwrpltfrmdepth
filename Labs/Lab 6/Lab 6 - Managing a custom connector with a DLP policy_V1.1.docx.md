@@ -50,7 +50,7 @@
 
     ![A screenshot of a computer Description automatically generated](./media/image8.png)
 
-11. Enter **Custom Office 365 Groups** in the **Connector name** column.
+11. Enter +++Custom Office 365 Groups+++ in the **Connector name** column.
     In the **Import an OpenAPI file** column, click on **Import** and go
     to the **C:\Labfiles** and locate **apiDefinition.swagger.json** file
     from the path mentioned in Task 1, Step 5.
@@ -109,20 +109,23 @@
 
 2.  Import the required modules by using the following commands:
 
-    +++Install-Module -Name Microsoft.PowerApps.Administration.PowerShell+++
+   '''
+    Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
    
-    +++Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber+++
+    Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
+
+    '''
    
-    ![](./media/image16.png)
+   ![](./media/image16.png)
    
-    ![A computer screen shot of text Description automatically generated](./media/image17.png)
+   ![A computer screen shot of text Description automatically generated](./media/image17.png)
 
 3.  Enter **Y** to select Yes.
 
     ![](./media/image18.png)
 
 4.  If you are prompted to accept the change to
-    the *InstallationPolicy* value of the repository, accept **\[A\] Yes
+    the *InstallationPolicy* value of the repository, accept **[A] Yes
     to all modules** by entering **A** and then selecting **Enter** for
     each module.
 
@@ -137,11 +140,11 @@
 
 6.  List all your DLP policies by running the following command in
     the **Windows PowerShell** command-line
-    tool: **Get-AdminDlpPolicy**.
+    tool: +++Get-AdminDlpPolicy+++.
 
     ![Screenshot of the command Get-AdminDlpPolicy.](./media/image21.png)
    
-    **Note:** You will be prompted for credentials at this point. Ensure
+    **Note**: You will be prompted for credentials at this point. Ensure
     that the credentials you are using have Environment or Tenant
     Administrator permissions.
    
@@ -150,7 +153,7 @@
     **Note**: If you get error after executing this step, execute the given
     command and then Accept **[A] Yes to all**
    
-    Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+    +++Set-ExecutionPolicy -ExecutionPolicy Unrestricted+++
    
     ![](./media/image23.png)
 
@@ -162,7 +165,7 @@
     ![A screenshot of a computer screen Description automatically generated](./media/image24.png)
 
 8.  You now need to retrieve more details about your custom connector.
-    To do so, enter **Get-AdminPowerAppConnector** in the **Windows
+    To do so, enter +++Get-AdminPowerAppConnector+++ in the **Windows
     PowerShell** command-line tool. When the results have returned, copy
     the **ConnectorName** and **ConnectorId** values to a text editor.
 
