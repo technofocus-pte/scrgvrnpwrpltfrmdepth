@@ -19,16 +19,20 @@ To set refresh cadence:
     at +++https://admin.powerplatform.microsoft.com+++ and
     sign in with your Office 365 tenant credentials. 
 
-2.  From left navigation pane, select **Manage** > **Environments** and
+2. Turn on the Toggle switch for **Try the new admin center** from the top right corner.
+
+    ![](./media/image2.1.png)
+
+3.  From left navigation pane, select **Manage** > **Environments** and
     then click on the **Dev One** environment.
 
      ![](./media/image1.png)
 
-3.  Click on **Edit** in details section.
+4.  Click on **Edit** in details section.
 
      ![](./media/image2.png)
 
-4.  Under **Refresh cadence**, choose the **cadence** type –
+5.  Under **Refresh cadence**, choose the **cadence** type –
     **Frequent** and then click on **Save** button.
 
      ![](./media/image3.png)
