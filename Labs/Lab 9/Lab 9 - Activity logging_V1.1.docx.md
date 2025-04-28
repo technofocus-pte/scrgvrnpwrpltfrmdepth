@@ -1,4 +1,4 @@
-# Lab 9: Activity logging
+# **Lab 9: Activity logging**
 
 1.  Sign in to the Microsoft Purview portal using 
     +++https://purview.microsoft.com/+++ with your Office 365 tenant
