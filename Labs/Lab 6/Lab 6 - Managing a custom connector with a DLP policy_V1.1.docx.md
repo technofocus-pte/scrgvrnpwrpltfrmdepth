@@ -52,7 +52,7 @@
 
 11. Enter +++Custom Office 365 Groups+++ in the **Connector name** column.
     In the **Import an OpenAPI file** column, click on **Import** and go
-    to the **C:\Labfiles** and locate **apiDefinition.swagger.json** file
+    to the **C:\Labfiles\PowerPlatformConnectors-dev\PowerPlatformConnectors-dev\custom-connectors\Office365Groups** and locate **apiDefinition.swagger.json** file
     from the path mentioned in Task 1, Step 5.
 
     ![A screenshot of a computer Description automatically generated](./media/image9.png)
