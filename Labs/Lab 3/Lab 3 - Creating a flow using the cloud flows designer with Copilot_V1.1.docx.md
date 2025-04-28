@@ -9,67 +9,67 @@
 
      ![](./media/image1.png)
 
-3.  In the text box under Create your automation with copilot, type
-    +++**When a new item is created in SharePoint, send me an email**+++ and
-    then click on **Generate** button.
-
-     ![](./media/image2.png)
-
-4.  Copilot will suggest a flow as per your description.
-
-     ![A screenshot of a computer Description automatically generated](./media/image3.png)
-
-5.  For this scenario, you need to first create a List in SharePoint. In
+3.  For this scenario, you need to first create a List in SharePoint. In
     power Automate, click on **App launcher** at the top left. Select
     **SharePoint**.
 
      ![A screenshot of a computer Description automatically generated](./media/image4.png)
 
-6.  You can observe that you are signed in with your Office 365 tenant
+4.  You can observe that you are signed in with your Office 365 tenant
     credentials. Select **Not now** on the Welcome pop-up.
 
      ![](./media/image5.png)
 
-7.  Select **+Create site** on SharePoint Home page.
+5.  Select **+Create site** on SharePoint Home page.
 
      ![A screenshot of a social media post Description automatically generated](./media/image6.png)
 
-8.  Select **Communication site**.
+6.  Select **Communication site**.
 
      ![](./media/image7.png)
 
-9.  On **Select a template** page, scroll down and click on **Blank**
+7.  On **Select a template** page, scroll down and click on **Blank**
     template.
 
      ![](./media/image8.png)
 
-10. Click on **Use template**.
+8. Click on **Use template**.
 
      ![A screenshot of a computer Description automatically generated](./media/image9.png)
 
-11. Enter **Site name** – +++Testing+++, **site description** – +++Training+++, keep
+9. Enter **Site name** – +++Testing+++, **site description** – +++Training+++, keep
     the generated site address as is and then select **Next**.
 
      ![](./media/image10.png)
 
-12. Select **English** as site language and then select **Create site**.
+10. Select **English** as site language and then select **Create site**.
 
      ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
-13. Select **+New > List**.
+11. Select **+New > List**.
 
      ![A screenshot of a computer Description automatically generated](./media/image12.png)
 
-14. Select **Blank list** under Create a list.
+12. Select **Blank list** under Create a list.
 
      ![A screenshot of a computer Description automatically generated](./media/image13.png)
 
-15. Enter the **List name*** -+++Mylist+++ and select **Create**.
+13. Enter the **List name*** -+++Mylist+++ and select **Create**.
 
      ![A screenshot of a computer Description automatically generated](./media/image14.png)
 
-16. Go back to the Power Automate window.
+14. Go back to the Power Automate window.
 
+15.  In the text box under Create your automation with copilot, type
+    +++**When a new item is created in SharePoint, send me an email**+++ and
+    then click on **Generate** button.
+
+     ![](./media/image2.png)
+     
+16.  Copilot will suggest a flow as per your description.
+
+     ![A screenshot of a computer Description automatically generated](./media/image3.png)
+     
 17. Review the AI generated flow suggestion and select **Next** or **Keep it and continue**.
 
     ![A screenshot of a computer Description automatically generated](./media/image15.png)
