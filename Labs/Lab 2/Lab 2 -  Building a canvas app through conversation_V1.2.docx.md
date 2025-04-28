@@ -1,4 +1,4 @@
-# Lab 2: Building a canvas app through conversation 
+# **Lab 2: Building a canvas app through conversation** 
 
 ### **Task 1: Create an app with Copilot**
 
