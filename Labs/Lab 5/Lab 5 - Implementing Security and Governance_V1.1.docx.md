@@ -75,9 +75,7 @@ for each theme as it relates to governing Power Platform.
 
      ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
-     ![A screenshot of a computer Description automatically generated](./media/image12.png)
-
-3.  In the navigation pane, select **Manage*** > **Environments**, and
+3.  In the navigation pane, select **Manage** > **Environments**, and
     then select **+New**.
 
      ![A screenshot of a computer Description automatically generated](./media/image13.png)
@@ -239,7 +237,7 @@ impacts your working flow.
 
 3.  Select **Security** from left navigation pane. Select **Data and privacy** and then select **Data policy**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image43.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.1.png)
 
 4.  Click **+ New Policy**.
 
