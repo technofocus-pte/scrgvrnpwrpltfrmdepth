@@ -19,10 +19,6 @@ To set refresh cadence:
     at +++https://admin.powerplatform.microsoft.com+++ and
     sign in with your Office 365 tenant credentials. 
 
-2. Turn on the Toggle switch for **Try the new admin center** from the top right corner.
-
-    ![](./media/image2.1.png)
-
 3.  From left navigation pane, select **Manage** > **Environments** and
     then click on the **Dev One** environment.
 
@@ -32,8 +28,8 @@ To set refresh cadence:
 
      ![](./media/image2.png)
 
-5.  Under **Refresh cadence**, choose the **cadence** type –
-    **Frequent** and then click on **Save** button.
+5.  Under **Refresh cadence**, check that the **cadence** type –
+    **Frequent** is selected and then click on **Save** button.
 
      ![](./media/image3.png)
 
@@ -89,7 +85,7 @@ and not have your work affect end users (non-admins)
 3.  Under **Administration mode**, toggle **Disabled** to **Enabled**
     and then select **Save**.
 
-    **Note**: Wait till environment details get edited completely. 
+    **Note**: It can take a few minutes for the background operation to complete. The screen will refresh automatically. 
 
      ![A screenshot of a computer Description automatically generated](./media/image9.png)
 
@@ -129,7 +125,7 @@ and not have your work affect end users (non-admins)
 
      ![](./media/image15.png)
 
-7.  Go back to **Power Platform Admin Center** tab and select on your
+7.  Go back to **Power Platform Admin Center** tab, select **Dev One**
     environment and then click on **Settings** on top menu bar.
 
      ![A screenshot of a computer Description automatically generated](./media/image16.png)
