@@ -189,15 +189,19 @@ to generate data for the lab and the data changes daily.
 
     ![A screenshot of a computer Description automatically generated](./media/image3.2.1.png)
 
-3.  Now select **Share**.
+3.  Now select **Manage access**.
 
-    ![A screenshot of a chat Description automatically generated](./media/image3.3.1.png)
+    ![A screenshot of a chat Description automatically generated](./media/image3.3.png)
 
-4.  Select the **Copy link drop-down** then select **Copy link to play app**.
+4.  Select Pending Invites tab, **User** access is aleady selected. Select **System Administartor** role under **Data access** and then select **Share**.
+
+    ![](./media/image3.4.1.png)
+  
+6.  Select the **Copy link drop-down** then select **Copy link to play app**.
 
      ![](./media/image3.4.png)
 
-5.  Open a new browser, paste the above link and sign in with Brooke's credentials and then you can see the app.
+7.  Open a new browser, paste the above link and sign in with Brooke's credentials and then you can see the app.
 
     **Note**: Open the Outlook account of the Brooke Gray with Login id -
     +++brookeg@LODSA7xxxxx.onmicrosoft.com+++ (**change the domain name** in login id) and Password – +++Pa$$w0rd@124+++.
