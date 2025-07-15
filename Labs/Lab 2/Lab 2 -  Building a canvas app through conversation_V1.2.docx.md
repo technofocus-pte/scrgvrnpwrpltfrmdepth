@@ -195,11 +195,11 @@ to generate data for the lab and the data changes daily.
 
 4.  Select Pending Invites tab, **User** access is aleady selected. Select **System Administartor** role under **Data access** and then select **Share**.
 
-    ![](./media/image3.4.1.png)
+    ![](./media/image3.4.3.png)
   
 6.  Select the **Copy link drop-down** then select **Copy link to play app**.
 
-     ![](./media/image3.4.png)
+     ![](./media/image3.4.2.png)
 
 7.  Open a new browser, paste the above link and sign in with Brooke's credentials and then you can see the app.
 
