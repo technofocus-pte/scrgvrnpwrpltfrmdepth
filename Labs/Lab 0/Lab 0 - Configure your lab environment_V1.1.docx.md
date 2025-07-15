@@ -37,16 +37,16 @@
     to +++https://admin.powerplatform.microsoft.com+++ and if required, sign
     in using your given Office 365 tenant admin credentials.
 
-     ![A screenshot of a computer Description automatically generated](./media/image7.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.7.png)
 
-8.  From the left navigation pane, select **Environments** and then you
+8.  From the left navigation pane, select **Manage** > **Environments** and then you
     can see, **Dev One** is your Dataverse environment.
 
-     ![A screenshot of a computer Description automatically generated](./media/image8.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.8.png)
 
 ### **Task 2: Creating Microsoft 365 Users**
 
-1.  Open Import_Users_Contoso.csv file from **C:\Labfiles** folder on your Lab VM.
+1.  Open the Import_Users_Contoso.csv file from **C:\Labfiles** folder on your Lab VM.
 
 2.  Under the Username column, update the tenant name to reflect your Office 365 tenant name for each user in the list and then save as a CSV format file.
 
@@ -56,7 +56,7 @@
 
 3.  Navigate to the Microsoft 365 admin center using +++https://admin.microsoft.com+++ 
 
-4.  From the left navigation, select **Users** > **Active users** page, click **Add multiple users**.
+4.  From the left navigation, select **Users** > **Active users** page, click **Add multiple users**. (To see this option, you may need to click on the ellipses (…) button)
 
      ![A screenshot of a computer Description automatically generated](./media/image4.1.png)
 
@@ -96,5 +96,5 @@
 
 13. On the **Reset password** pane, click **Close**.
 
-    ![A screenshot of a computer Description automatically generated](./media/image12.1.png)
+    ![A screenshot of a computer Description automatically generated](./media/image13.1.png)
 
