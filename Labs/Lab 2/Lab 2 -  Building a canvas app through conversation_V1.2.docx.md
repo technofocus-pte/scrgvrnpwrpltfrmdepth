@@ -193,7 +193,7 @@ to generate data for the lab and the data changes daily.
 
     ![A screenshot of a chat Description automatically generated](./media/image3.3.png)
 
-4.  Select Pending Invites tab, **User** access is aleady selected. Select **System Administartor** role under **Data access** and then select **Share**.
+4.  Select **Pending Invites** tab, **User** access is aleady selected. Select **System Administartor** role under **Data access** and then select **Share**.
 
     ![](./media/image3.4.3.png)
   
