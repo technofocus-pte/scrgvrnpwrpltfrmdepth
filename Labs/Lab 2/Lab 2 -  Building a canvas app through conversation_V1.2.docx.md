@@ -45,7 +45,7 @@ to generate data for the lab and the data changes daily.
     
      Your next steps are to modify and add to the already generated table.
 
-8.  Check if **Feedback** colum is present in the Showing table. If yes then go the next step, if no then select the **Showing** table, enter the below prompt in the copilot pane and click on the **Send** button.
+8.  Check if **Feedback** colum is present in the **Showing** table. If yes then go to the next step, if no then select the **Showing** table, enter the below prompt in the copilot pane and click on the **Send** button.
 
     +++**Add the Feedback column**+++
 
@@ -193,13 +193,15 @@ to generate data for the lab and the data changes daily.
 
     ![A screenshot of a chat Description automatically generated](./media/image3.3.1.png)
 
-4.  Open Outlook account of the Brooke Gray with Login id -
-    +++brookeg@LODSA7xx479.onmicrosoft.com+++ (change the domain name in login id) and Password – +++Pa$$w0rd@124+++.
+4.  Select the **Copy link drop-down** then select **Copy link to play app**.O
     You can see the mail received from MOD Admin. Select **Open the
     App**.
 
-     ![](./media/image3.4.1.png)
+     ![](./media/image3.4.png)
 
-5.  You can see the app.
+5.  Open a new browser, paste the above link and sign in with Brooke's credentials and then you can see the app.
 
-    ![A screenshot of a computer Description automatically generated](./media/image32.png)
+    **Note**: Open the Outlook account of the Brooke Gray with Login id -
+    +++brookeg@LODSA7xxxxx.onmicrosoft.com+++ (**change the domain name** in login id) and Password – +++Pa$$w0rd@124+++.
+
+    ![A screenshot of a computer Description automatically generated](./media/image3.5.png)
