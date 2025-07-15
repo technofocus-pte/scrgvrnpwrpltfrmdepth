@@ -193,9 +193,7 @@ to generate data for the lab and the data changes daily.
 
     ![A screenshot of a chat Description automatically generated](./media/image3.3.1.png)
 
-4.  Select the **Copy link drop-down** then select **Copy link to play app**.O
-    You can see the mail received from MOD Admin. Select **Open the
-    App**.
+4.  Select the **Copy link drop-down** then select **Copy link to play app**.
 
      ![](./media/image3.4.png)
 
