@@ -19,35 +19,31 @@ for each theme as it relates to governing Power Platform.
 
 2.  Select **Teams & groups** > **Active teams & groups**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image1.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.2.png)
 
 3.  Select **Security group** tab and then select **+Add a security
     group**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image2.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.3.png)
 
 4.  Add the group Name: +++**PPS-security**+++
     and Description:+++**Power Platform
     architecture and governance security group**+++ and then click **Next**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image3.png)
-
-5.  Click on **Next** on Edit settings window.
-
-     ![A screenshot of a computer Description automatically generated](./media/image4.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.4.png)
 
 6.  Click on **Create group** button.
 
-     ![A screenshot of a computer Description automatically generated](./media/image5.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.5.png)
 
 7.  Click on **Close** button to close the window.
 
-     ![A screenshot of a computer Description automatically generated](./media/image6.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.7.png)
 
-8.  Click on the group you created, select **Members** tab and then click
+8.  Click on the group you created, select the **Members** tab and then click
     on **View all and managed members** hyper link.
 
-     ![A screenshot of a computer Description automatically generated](./media/image7.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.8.png)
 
 9.  Click on **+ Add members**.
 
@@ -56,31 +52,28 @@ for each theme as it relates to governing Power Platform.
 10. Select the first three users (For example here, Adele, Alex and
     Allan) to add to the security group and then select **Add(3)**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image9.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.10.png)
 
 11. **Close** the ‘Members’ pane to return to the **Groups** list.
 
-     ![A screenshot of a computer Description automatically generated](./media/image10.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.1.11.png)
 
 12. You have completed this task, please do not close the tab and 
     proceed ahead with the next task.
 
 ### **Task 2: Associate a security group with a Dataverse environment**
 
-1.  Open new tab and navigate to Power Platform admin center
+1.  Opena  new tab and navigate to the Power Platform admin center
     using +++**https://admin.powerplatform.microsoft.com**+++ and
     if required, sign in with your Office 365 tenant credentials. 
 
-2.  Enable the toggle switch for ‘Try new admin center’.
-
-     ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
 3.  In the navigation pane, select **Manage** > **Environments**, and
     then select **+New**.
 
      ![A screenshot of a computer Description automatically generated](./media/image13.png)
 
-4.  On the New environment window, enter the following information.
+4.  On the **New environment** window, enter the following information and then select **Next**.
 
      **Name**: +++Test+++
     
@@ -127,12 +120,12 @@ and then viewing the impact of adding a DLP policy.
 
 2.  Select the trial environment – **Test**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image24.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.1.2.png)
 
 3.  Select **Flows** from the left. Click **+ New flow** and
     select **Scheduled cloud flow.**
 
-     ![A screenshot of a computer Description automatically generated](./media/image25.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.1.3.png)
 
 4.  Enter +++Weather flow+++ for **Name**,
     select **Repeat every 1 Day**, and click **Create**.
@@ -143,7 +136,7 @@ and then viewing the impact of adding a DLP policy.
 
      ![Screenshot](./media/image27.png)
 
-6.  Search **msn** and select **Get current weather**. 
+6.  Search +++**msn**+++ and select **Get current weather**. 
 
      ![](./media/image28.png)
 
@@ -152,7 +145,7 @@ and then viewing the impact of adding a DLP policy.
 
      ![Screenshot](./media/image29.png)
 
-8.  Search for **send email** and select **Send an email (V2) Office 365
+8.  Search for +++**send email**+++ and select **Send an email (V2) Office 365
     Outlook**.
 
      ![](./media/image30.png)
@@ -181,34 +174,34 @@ and then viewing the impact of adding a DLP policy.
      ![A screenshot of a computer Description automatically generated](./media/image33.png)
 
 15. Go to **Flows** by clicking on the back arrow located on the top
-    left of the page.
+    left of the designer window (Before the flow name).
 
      ![A screenshot of a computer Description automatically generated](./media/image34.png)
 
 16. Click **Flow name** to open the flow.
 
-     ![A screenshot of a computer Description automatically generated](./media/image35.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.1.16.png)
 
-17. Make sure the flow is On. Select **Turn on**, if the flow is turned
+17. Make sure the flow is **On**. Select **Turn on**, if the flow is turned
     off.
 
-     ![A screenshot of a computer Description automatically generated](./media/image36.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.1.17.png)
 
 18. Click **Run** and then click **Run flow**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image37.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.1.18.png)
     
      ![A screenshot of a phone Description automatically generated](./media/image38.png)
 
 19. Click **Done** and wait for the flow run to complete.
 
-     ![A screenshot of a computer Description automatically generated](./media/image39.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.1.19.png)
 
 20. Click on the **Refresh** button to see the update status.
 
-     ![](./media/image40.png)
+     ![](./media/image2.1.20.png)
 
-21. Open new tab and browse
+21. Open a new InPrivate browser tab and browse
     to +++https://outlook.office.com+++ sign
     in with +++brookeg@LODSA7xx479.onmicrosoft.com+++ (change the domain name in your log in id) and
     Password: +++Pa$$w0rd@124+++
@@ -218,7 +211,7 @@ and then viewing the impact of adding a DLP policy.
      ![A screenshot of a computer Description automatically generated](./media/image41.png)
 
 23. You have completed this task, please do not close the tab. Proceed
-    ahead with the next exercise.
+    ahead with the next task.
 
 ### **Task 2: Create a DLP Policy**
 
@@ -230,10 +223,6 @@ impacts your working flow.
     and make sure you have signed in with your Office 365 Admin tenant
     credentials.
 
-2.  Ensure that you are using new admin center. If not, then enable the
-    toggle switch for ‘Try new admin center’.
-
-     ![A screenshot of a computer Description automatically generated](./media/image42.png)
 
 3.  Select **Security** from left navigation pane. Select **Data and privacy** and then select **Data policy**.
 
@@ -245,29 +234,29 @@ impacts your working flow.
 
 5.  Enter name of the policy +++PP-Datapolicy+++ and click **Next**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image45.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.5.png)
 
 6.  Search for +++Dataverse+++,
     select **Microsoft Dataverse**, and click **Move to Business**. 
     Choose carefully, you may have to expand the Name column to
     differentiate between connectors in your search results.
 
-     ![A screenshot of a computer Description automatically generated](./media/image46.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.6.png)
 
 7.  Search for +++SharePoint+++, select **SharePoint,** and click **Move
     to Business**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image47.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.7.png)
 
 8.  Search for +++Outlook+++, select **Office 365 Outlook,** and
     click **Move to Business**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image48.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.8.png)
 
 9.  Select the **Business** tab and you should now have three connectors
     moved to Business. Click **Next**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image49.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.9.png)
 
 10. Do not add any connectors and click on **Next**.
 
@@ -293,17 +282,16 @@ impacts your working flow.
 
 15. Your **Policy** got created.
 
-     ![A screenshot of a computer Description automatically generated](./media/image55.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.15.png)
 
 16. Click on **App Launcher** and then select Outlook.
 
-     ![A screenshot of a computer Description automatically generated](./media/image56.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.16.png)
 
 17. You should see an **Alert** email saying **Flow suspended due to
-    violation of Data Loss Prevention policy** ( It takes 5 min to
-    generate email)
+    violation of Data Loss Prevention policy** (It can take up to 5 minutes for the email to be generated.)
 
-     ![A screenshot of a computer Description automatically generated](./media/image57.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.17.png)
 
 18. Switch back to **Power
     Apps** +++https://make.powerapps.com+++ and
@@ -311,16 +299,16 @@ impacts your working flow.
 
 19. Select **Flows**, select **Weather flow**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image58.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.19.png)
 
 20. Flow should now be suspended because of the DLP you created. Click
-    on it to open the flow.
+    on it to open the flow. If you don't see the status as 'Suspended', try refreshing the page.
 
-     ![A screenshot of a computer Description automatically generated](./media/image59.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.20.png)
 
 21. You should not be able to **run** the flow.
 
-     ![A screenshot of a computer Description automatically generated](./media/image60.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.2.21.png)
     
      **Note:**  After you finish this lab if you have time come back and
      modify the DLP you created to fix the problem.  If you have trouble
@@ -341,11 +329,11 @@ impacts your working flow.
 2.  Select **Manage** from left navigation pane. Select **Environments** and
     then click on your **Test** trial environment.
 
-     ![](./media/image61.png)
+     ![](./media/image3.1.2.png)
 
 3.  Click on **Settings** on top menu bar.
 
-     ![A screenshot of a computer Description automatically generated](./media/image62.png)
+     ![A screenshot of a computer Description automatically generated](./media/image3.1.3.png)
 
 4.  Select **Users + permissions** > **Teams**.
 
@@ -353,13 +341,13 @@ impacts your working flow.
 
 5.  A list of all the teams in the environment is displayed.
 
-     ![A screenshot of a computer Description automatically generated](./media/image64.png)
+     ![A screenshot of a computer Description automatically generated](./media/image3.1.5.png)
 
 ### **Task 2: Create a new team**
 
 1.  Select **+ Create team**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image65.png)
+     ![A screenshot of a computer Description automatically generated](./media/image3.2.1.png)
 
 2.  Specify the following fields:
 
@@ -369,8 +357,8 @@ impacts your working flow.
 
     - **Business unit:** Type org and select it from suggestion box
 
-    - **Administrator:** Your Office 365 admin tenant. Type admin and
-      select it from suggestion box
+    - **Administrator:** Type admin and
+      select your Office 365 admin name, MOD Administrator  from suggestion box 
 
     - **Team type:** **Microsoft Entra ID Security Group**
 
@@ -396,7 +384,7 @@ impacts your working flow.
 1.  Select the checkbox for a recently created team – **PPS-Test-Team**.
     Select **Manage security roles**.
 
-     ![](./media/image69.png)
+     ![](./media/image3.3.1.png)
 
 2.  Select **AIB SML Roles**, and then click **Save**.
 
@@ -404,17 +392,16 @@ impacts your working flow.
 
      ![](./media/image71.png)
 
-3.  You have completed this task, please stab back in the same tab and
-    proceed ahead with the next task.
+3.  You have completed this task. Please remain in the current tab and continue with the next task. 
 
 ### **Task 4: Delete a team**
 
-1.  Select the checkbox for a team name. Select **Delete** twice to
+1.  Select the checkbox for the **PPS-Test-Team**. Select **Delete** twice to
     confirm. Note that this action can't be undone.
 
-     ![](./media/image72.png)
+     ![](./media/image3.4.1.png)
 
-     ![A screenshot of a computer Description automatically generated](./media/image73.png)
+     ![A screenshot of a computer Description automatically generated](./media/image3.4.1.1.png)
 
 2.  You have completed the exercise, please do not close the browser.
     Proceed ahead with the next lab.
