@@ -105,23 +105,25 @@
    provide them as inputs when adding your custom connector. These steps
    are also covered in the following section.
 
-1.  Launch **Windows PowerShell** and select **Run as Administrator**.
+1.  Launch **Windows PowerShell** and select **Run as Administrator**. Select **Yes** on the **User Account Control** prompt.
 
     ![Screenshot of Windows PowerShell desktop app with Run as Administrator highlighted.](./media/image15.png)
 
+    ![](./media/image2.1.png)      
+
 2.  Import the required modules by using the following commands:
 
-   '''
-    
-   Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
+      '''
+       
+      Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
+      
+      Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
    
-   Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
-
-   '''
+      '''
    
-   ![](./media/image16.png)
+     ![](./media/image16.png)
    
-   ![A computer screen shot of text Description automatically generated](./media/image17.png)
+     ![A computer screen shot of text Description automatically generated](./media/image17.png)
 
 3.  Enter **Y** to select Yes.
 
