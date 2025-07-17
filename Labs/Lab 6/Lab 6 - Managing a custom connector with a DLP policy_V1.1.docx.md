@@ -6,10 +6,12 @@
     **C:\Labfiles**. Right-click the file in Windows Explorer and
     select **Extract All...**
 
-    ![](./media/image1.png)
+    ![](./media/image1.1.png)
 
-2.  Go to the extracted folder and open
+2.  Select **Extract** and then go to the extracted folder and open
     the **PowerPlatformConnectors-dev** folder.
+
+   ![](./media/image1.2.png)
 
 3.  Open the **custom-connectors** folder.
 
@@ -82,7 +84,7 @@
     ![A screenshot of a computer Description automatically generated](./media/image13.png)
 
 16. You should now see your custom connector available within
-    the **Custom connectors** experience.
+    the **Custom connectors** experience. IF you dont see it then try refreshing the page.
 
     ![A screenshot of a computer Description automatically generated](./media/image14.png)
 
@@ -110,11 +112,12 @@
 2.  Import the required modules by using the following commands:
 
    '''
-    Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
+    
+   Install-Module -Name Microsoft.PowerApps.Administration.PowerShell
    
-    Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
+   Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber
 
-    '''
+   '''
    
    ![](./media/image16.png)
    
@@ -139,8 +142,8 @@
     ![](./media/image20.png)
 
 6.  List all your DLP policies by running the following command in
-    the **Windows PowerShell** command-line
-    tool: +++Get-AdminDlpPolicy+++.
+    the **Windows PowerShell** command-line tool.
+    +++Get-AdminDlpPolicy+++
 
     ![Screenshot of the command Get-AdminDlpPolicy.](./media/image21.png)
    
@@ -150,7 +153,7 @@
    
     ![](./media/image22.png)
    
-    **Note**: If you get error after executing this step, execute the given
+    **Note**: If you get an error after executing this step, execute the given
     command and then Accept **[A] Yes to all**
    
     +++Set-ExecutionPolicy -ExecutionPolicy Unrestricted+++
@@ -172,7 +175,7 @@
     ![](./media/image25.png)
 
 9.  Enter **Add-CustomConnectorToPolicy** in the Windows PowerShell
-    command-line tool.
+    command-line tool and hit **Enter** to proceed.
 
 10. When prompted, provide the **PolicyName** that you copied in step 5.
 
