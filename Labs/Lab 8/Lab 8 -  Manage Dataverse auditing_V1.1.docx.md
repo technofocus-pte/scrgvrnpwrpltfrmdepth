@@ -6,14 +6,13 @@
 
 1.  Sign in to the Power Platform admin center using
     +++https://admin.powerplatform.microsoft.com+++
-    with your Office 365 admin tenant credentials.**Enable** the **New admin center** switch.
+    with your Office 365 admin tenant credentials.
 
 2.  Select **Manage** > **Environments** from left navigation.
 
     ![A screenshot of a computer Description automatically generated](./media/image1.png)
 
-3.  Select **Dev One** environment and then select **More commands** (three
-    dots) from above horizontal palette and then select **Settings**.
+3.  Select **Dev One** environment and then select **Settings**. If the option is not visible then select **More commands** (three dots) from above horizontal palette and then select **Settings**.
 
     ![](./media/image2.png)
 
@@ -78,11 +77,11 @@
 
     ![](./media/image13.png)
 
-11. Select the **Audit changes to its data** checkbox. Select **Save**.
+11. Make sure that the **Audit changes to its data** is enabled. Select **Save**.
 
     ![A screenshot of a computer Description automatically generated](./media/image14.png)
 
-12. Select back arrow to go back to the
+12. Select back arrow to go back to the Expense Reports.
 
     ![A screenshot of a computer Description automatically generated](./media/image15.png)
 
