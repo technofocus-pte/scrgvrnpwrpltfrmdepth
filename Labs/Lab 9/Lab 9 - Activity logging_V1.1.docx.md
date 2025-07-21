@@ -14,10 +14,9 @@
 
      ![A screenshot of a computer Description automatically generated](./media/image2.png)
 
-4.  Select **Search** from left navigation pane. Click on **Start
-    recording user and admin activity**.
+4.  Within the **Audit** log search screen, Power Platform admins can search audit logs across many popular services including eDiscovery, Exchange, Power BI, Microsoft Entra ID, Microsoft Teams, customer engagement apps and Microsoft Power Apps.
 
-     ![A screenshot of a computer Description automatically generated](./media/image3.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.4.png)
 
 5.  Configure **Start date** as 3-4 days before the current date and
     **End date** as current date. Select **Search**.
@@ -32,4 +31,4 @@
 
 7.  Click on Refresh and you can see the job status as **Completed**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image6.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.7.png)
