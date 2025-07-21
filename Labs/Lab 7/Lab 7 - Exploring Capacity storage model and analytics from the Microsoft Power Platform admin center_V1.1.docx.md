@@ -4,44 +4,42 @@
 
 1.  Switch back to **Power Platform admin center** tab or open new tab
     and navigate
-    to +++https://admin.powerplatform.microsoft.com+++ and
+    to +++https://admin.powerplatform.microsoft.com+++ and
     sign in with your Office 365 tenant credentials. 
 
-2.  Ensure that you are using current Power Platform admin center and
-    not the new admin center. Expand **Resources** and
-    select **Capacity**. Notice the **Storage capacity usage**.
+2.  From the left navigation pane, select **More options (3 dots)**. Select Licensing and then select **Capacity add-ons**. 
 
-     ![A screenshot of a computer Description automatically generated](./media/image1.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.2.1.png)
 
 3.  Go to the **Top storage usage by environment** section and notice
     the capacity usage by top environments.
 
-     ![A screenshot of a computer Description automatically generated](./media/image2.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.3.png)
 
 4.  Click to select the **Trial** tab. See where storage is being used
     across your trial environment.
 
-     ![A screenshot of a computer Description automatically generated](./media/image3.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.4.png)
 
 5.  Select **Details** icon next to your Test environment.
 
-     ![A screenshot of a computer Description automatically generated](./media/image4.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.5.png)
 
 6.  This page provides a view of the capacity storage used by your trial
     environments. Trial environment capacity usage doesn't count towards
     your organization's Dataverse usage.
 
-     ![](./media/image5.png)
+     ![](./media/image1.6.png)
 
 7.  Come back to the **Capacity** page by selecting **Capacity** from
     the path.
 
-     ![](./media/image6.png)
+     ![](./media/image1.7.png)
 
 8.  Select **Download** above the list of environments to download an
     Excel .CSV file with high-level storage information.
 
-     ![](./media/image7.png)
+     ![](./media/image1.8.png)
 
 9.  Click **Open file**. You should see high-level storage information.
 
@@ -49,45 +47,41 @@
 
 10. Close the CSV file.
 
-11. Expand **Analytics** and select **Dataverse.**
+11. From the left navigation pane, select **Manage** and then select **Dataverse** under **Products**.
 
-     ![](./media/image9.png)
+     ![](./media/image1.11.png)
 
 12. On **Dataverse analytics** page, click **Change filters**.
 
-     ![](./media/image10.png)
+     ![](./media/image1.12.png)
 
 13. On **Filters** page, select **Dev One** environment **URL**. Change
     the date range to between **one-week ago** and **today**, and then
     click **Apply**.
 
-     ![](./media/image11.png)
+     ![](./media/image1.13.png)
 
 14. The visuals should change to reflect your changes.
 
-     ![](./media/image12.png)
+     ![](./media/image1.14.png)
 
-15. Select **Power Automate**.  Select **change filters**.
+15. **Disable** the New admin center toggle switch. Expand the **Analytics** from the the left navigation pane. Select **Power Automate**.  Select **change filters**.
 
-     ![](./media/image13.png)
+     ![](./media/image1.15.png)
 
-16. On **Filters** page, select the **Dev One** environment where we
+16. On **Filters** page, select the **Test** environment where we
     have created cloud flow and then **Apply**.
 
-     ![](./media/image14.png)
+     ![](./media/image1.16.png)
 
 17. Review the visuals in the **Runs** tab and then select
     the **Usage** tab.
 
-     ![](./media/image15.png)
-
-18. Review the visuals in the **Created** tab.
-
-     ![](./media/image16.png)
+     ![](./media/image1.17.png)
 
 19. Select **Power Apps,** select **Change filters**.
 
-     ![](./media/image17.png)
+     ![](./media/image1.19.png)
 
 20. Select **Dev One** environment and then select **Apply**.
 
@@ -95,7 +89,7 @@
 
 21. Review the visuals in Usage tab.
 
-     ![A screenshot of a computer Description automatically generated](./media/image18.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.21.png)
 
 22. You have completed this task, please do not close the browser .
     Proceed ahead with the next exercise.
