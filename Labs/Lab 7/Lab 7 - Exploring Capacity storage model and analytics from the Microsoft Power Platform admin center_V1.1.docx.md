@@ -119,13 +119,15 @@
 
      ![](./media/image2.4.1.png)
 
-5.  Considering that the feature has got enabled. Select **Usage** tab.
+5.  Since tenant-level analytics may take time to become available, we recommend following the steps below to understand the purpose of each sub-tab under the Overview tab.
+
+6.  After selecting **Usage** tab,
     Power Apps reports provide insights into tenant and environment
     usage and inventory of all apps and connector.
 
      ![A screenshot of a computer Description automatically generated](./media/image22.png)
 
-6.  To see Maker Activity report, select Maker activity tab. You can see
+7.  To see Maker Activity report, select **Maker activity** tab. You can see
     the following details on the report.
 
     - What is the total number of apps created/published/modified/deleted by
@@ -141,7 +143,7 @@
     
      ![A screenshot of a computer Description automatically generated](./media/image23.png)
 
-7.  To review, Inventory report, select App inventory.
+8.  To review, Inventory report, select App inventory.
 
     - What is the total number of model-driven and canvas apps across the
       tenant or environments?
@@ -155,14 +157,14 @@
     
      ![A screenshot of a computer Description automatically generated](./media/image24.png)
 
-8.  Select **Analytics** > **Power Automate.**
+9.  Select **Power Automate** listed under **Products**.
 
-     ![](./media/image25.png)
+     ![](./media/image2.8.png)
 
-9.  Select **Maker activity** tab.
+10.  Select **Maker activity** tab.
 
      ![A screenshot of a computer Description automatically generated](./media/image26.png)
 
-10. Select **Inventory** tab.
+11. Select **Inventory** tab.
 
      ![A screenshot of a computer Description automatically generated](./media/image27.png)
