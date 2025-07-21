@@ -9,6 +9,8 @@
 
 2.  From the left navigation pane, select **More options (3 dots)**. Select Licensing and then select **Capacity add-ons**. 
 
+     ![A screenshot of a computer Description automatically generated](./media/image1.2.png)
+
      ![A screenshot of a computer Description automatically generated](./media/image1.2.1.png)
 
 3.  Go to the **Top storage usage by environment** section and notice
@@ -65,7 +67,9 @@
 
      ![](./media/image1.14.png)
 
-15. **Disable** the New admin center toggle switch. Expand the **Analytics** from the the left navigation pane. Select **Power Automate**.  Select **change filters**.
+15. **Disable** the **New admin center** toggle switch. Expand the **Analytics** from the the left navigation pane. Select **Power Automate**.  Select **change filters**.
+
+     ![](./media/image1.11.1.png)
 
      ![](./media/image1.15.png)
 
