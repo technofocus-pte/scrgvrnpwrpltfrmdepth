@@ -100,23 +100,24 @@
 
 ### **Task 2: Enable tenant-level analytics**
 
-1.  Select the **Overview** tab. Select **Enable** to redirect to
-    the **Analytics** pane.
+1.  From the left navigation pane, select **Manage** > **Tenant settings** and then select **Analytics**.
 
-     ![](./media/image19.png)
+     ![](./media/image2.1.png)
+
+     ![](./media/image2.2.png)
 
 2.  In the **Analytics** pane, grant consent for tenant-level analytics
     by enabling the **Tenant-level analytics** feature. Select **Save**.
 
-     ![](./media/image20.png)
+     ![](./media/image2.2.1.png)
 
-3.  From left navigation pane, select **Analytics** > **Power Apps.**
+3.  Select **Power Apps** listed under **Products**. Select **Overview** tab if not selected.
 
 4.  The **Overview** tab displays a message indicating that tenant-level
     analytics has been enabled. Typically, these reports are displayed
     within 24-48 hours of enabling the feature.
 
-     ![](./media/image21.png)
+     ![](./media/image2.4.1.png)
 
 5.  Considering that the feature has got enabled. Select **Usage** tab.
     Power Apps reports provide insights into tenant and environment
