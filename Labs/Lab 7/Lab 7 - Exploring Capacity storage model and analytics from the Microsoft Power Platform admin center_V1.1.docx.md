@@ -67,11 +67,11 @@
 
      ![](./media/image1.14.png)
 
-15. **Disable** the **New admin center** toggle switch. Expand the **Analytics** from the the left navigation pane. Select **Power Automate**.  Select **change filters**.
+15. Select **Manage** from the left navigation pane. Select **Power Automate** listed under **Products**. Select **Environment View** tab and then select **Change filters**.
 
-     ![](./media/image1.11.1.png)
+     ![](./media/image1.1.15.png)
 
-     ![](./media/image1.15.png)
+     ![](./media/image1.1.15a.png)
 
 16. On **Filters** page, select the **Test** environment where we
     have created cloud flow and then **Apply**.
@@ -81,11 +81,11 @@
 17. Review the visuals in the **Runs** tab and then select
     the **Usage** tab.
 
-     ![](./media/image1.17.png)
+     ![](./media/image1.1.17a.png)
 
-19. Select **Power Apps,** select **Change filters**.
+19. Select **Power Apps** listed under **Products**. Select **Environment View** tab and then select **Change filters**.
 
-     ![](./media/image1.19.png)
+     ![](./media/image1.1.19a.png)
 
 20. Select **Dev One** environment and then select **Apply**.
 
