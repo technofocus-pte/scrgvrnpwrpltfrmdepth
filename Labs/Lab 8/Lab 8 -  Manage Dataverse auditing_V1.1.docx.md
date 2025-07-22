@@ -1,5 +1,7 @@
 # **Lab 8: Manage Dataverse auditing**
 
+**Objective**: In this lab, you learn how to manage Dataverse auditing. Dataverse auditing is supported on all custom and most customizable tables and columns. You will learn how Audit logs can be viewed. Audit logs for updates are created when a new value is different from the old value of a column.
+
 ### **Task 1: Start/stop auditing for an environment and set retention policy**
 
 1.  Sign in to the Power Platform admin center using
