@@ -1,5 +1,7 @@
 # **Lab 4: Building agents with generative AI**
 
+**Objective**: In this lab, you will learn how to create an agent by using Microsoft Copilot Studio that uses natural language to respond to questions. You will also learn how to create and manage topic using Copilot.
+
 ### **Task 1: Create agent with generative AI**
 
 1.  To create a new agent in Copilot Studio, sign in to the Copilot Studio using +++https://go.microsoft.com/fwlink/?LinkId=2107702+++. Complete the authentication process. Enter your Office 365 Admin tenant credentials and then select **Next**.  
