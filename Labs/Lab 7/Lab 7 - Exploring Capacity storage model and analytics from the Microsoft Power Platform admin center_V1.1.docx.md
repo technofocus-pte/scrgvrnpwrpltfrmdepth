@@ -1,5 +1,7 @@
 # **Lab 7: Exploring Capacity storage model and analytics from the Microsoft Power Platform admin center**
 
+**Objective**: In this lab, you will explore Capacity storage model which provides an environment-level detailed view of where your organization is using capacity. You will learn how to download an Excel .CSV file with high-level storage information for each environment, how to view Dataverse, Power Apps and Power Automate analytics.
+
 ### **Task 1: Explore the Power Platform Admin View app**
 
 1.  Switch back to **Power Platform admin center** tab or open new tab
