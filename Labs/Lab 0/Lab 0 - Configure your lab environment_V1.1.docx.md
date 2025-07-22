@@ -1,5 +1,7 @@
 # **Lab 0: Setting up lab environment**
 
+**Objective**: In this lab, you will acquire Power Apps trial license. You will also add users and assign licenses to them at the same time.
+
 ### **Task 1: Assign** **Power Apps trial license** 
 
 1.  Open a web browser on your VM and go to
