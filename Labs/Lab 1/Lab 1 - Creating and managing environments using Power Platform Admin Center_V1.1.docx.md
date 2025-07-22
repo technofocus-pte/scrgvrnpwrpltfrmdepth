@@ -1,5 +1,7 @@
 # **Lab 1: Creating and managing environments using Power Platform Admin Center**
 
+**Objective**: In this lab, you'll learn how to control who can create and manage environments, enable or disable Administration mode in the Power Platform Admin Center, create a custom security role, and assign it to an administrative user.
+
 An environment is a space to store, manage, and share your
 organization's business data, apps, and flows. It also serves as a
 container to separate apps that may have different roles, security
