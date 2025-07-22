@@ -1,5 +1,7 @@
 # **Lab 2: Building a canvas app through conversation** 
 
+**Objective**: In this lab, you will learn to create a custom canvas app in Power Apps through conversation with Copilot. You will learn how Copilot generates tables, how to customize tables with the help of Copilot and how to share an app with the user. 
+
 ### **Task 1: Create an app with Copilot**
 
 **Note:** In this lab, your results for data might vary from those shown
