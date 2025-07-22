@@ -1,7 +1,5 @@
 # **Lab 8: Manage Dataverse auditing**
 
-## **Exercise 1: Manage Dataverse auditing**
-
 ### **Task 1: Start/stop auditing for an environment and set retention policy**
 
 1.  Sign in to the Power Platform admin center using
