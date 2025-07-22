@@ -1,81 +1,91 @@
 # **Lab 4: Building agents with generative AI**
 
-1.  Sign into **Microsoft Copilot Studio** with your **Office 365 admin
-    tenant** credentials
-    using +++https://copilotstudio.microsoft.com/+++
+1.  To create a new agent in Copilot Studio, sign in to Copilot Studio using +++https://go.microsoft.com/fwlink/?LinkId=2107702+++. Complete the authentication process. Enter your Office 365 Admin tenant credential and then select Next.  
 
-2.  If asked, select **United States** as your country/region and then
-    select **Start free trial.**
+    ![](./media/image0.1.png)
 
-     ![](./media/image1.png)
+2.  Select **Sign In**.
 
-3.  Select **Dev One** environment from environment selector.
+     ![](./media/image0.2.png)
 
-     ![](./media/image2.png)
+3.  Fill up the following required information and then select Get Started.
 
-4.  On the **Welcome to Copilot Studio** pop-up, select **Skip**
+    **Country or Region** – United States
 
-     ![](./media/image3.png)
+    **Job title** – Your job title
 
-5.  Select **+Create** from the left navigation menu and then
+    **Business phone number** – Your phone number
+
+     ![](./media/image0.3.png)
+
+4.  Under the **Confirmation details** step, select **Get Started**.
+
+    ![](./media/image0.5.png)
+
+5.  Select **United States** as **Country or Region** and then select **Get Started**.
+
+    ![](./media/image0.6.png)
+    
+7.  Click on the **Environment selector** and then select **Dev One** environment. 
+
+    **Note**: If the environment selector is not visible or you're unable to select 'Dev One', copy the webpage link and replace the default environment segment with the link corresponding to the 'Dev One' environment. To get 'Dev One' environment's link go to Power Platfor admin center > Manage > Environments > Dev One.
+
+     ![](./media/image0.7.png)
+  
+9.  On the **Welcome to Copilot Studio** pop-up, select **Skip**
+
+     ![](./media/image0.8.png)
+
+10.  Select **+Create** from the left navigation menu and then
     select **New agent.**
 
-     ![A screenshot of a computer Description automatically generated](./media/image4.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.5.png)
 
-6.  Select **Skip to configure**.
+11.  Select **Skip to configure**.
 
-     ![A screenshot of a computer Description automatically generated](./media/image5.png)
+     ![A screenshot of a computer Description automatically generated](./media/image1.6.png)
 
     The Create an agent wizard opens. This wizard helps you set up your
     agent by naming it, selecting the language, and also optionally choosing
     if you want to boost your conversations with generative answers.
 
-7.  Name your agent as +++Real Estate Booking Service+++ and then click
+11.  Name your agent as +++Real Estate Booking Service+++ and then click
     on **+Add knowledge.**
 
      ![A screenshot of a computer Description automatically generated](./media/image6.png)
 
-8.  Select **Public website**.
+12.  Select **Public website**.
 
      ![](./media/image7.png)
 
-9.  Under the webpage link, enter
+13.  Under the webpage link, enter
     the +++https://powerplatform.microsoft.com/+++ and
-    then select **Add**.
+    then select **Add**. Note that, here we have added the given link just for the understanding purpose.  
 
      ![A screenshot of a computer Description automatically generated](./media/image8.png)
 
-10. You can see the link added under Webpage link field, now again
+14. You can see the link added under Webpage link field, now again
     select **Add**.
 
      ![A screenshot of a computer Description automatically generated](./media/image9.png)
 
-11. Select **Create**.
+15. Select **Create**.
 
      ![A screenshot of a computer Description automatically generated](./media/image10.png)
 
-12. With your agent created, select **Topics** from the above horizontal
+16. With your agent created, select **Topics** from the above horizontal
     pallet and then select the **+ Add a topic** dropdown menu.
     Select **Create from description with Copilot**.
 
      ![A screenshot of a computer Description automatically generated](./media/image11.png)
 
-     **Note:** If the **Create with Copilot** option doesn't display, you
-     might need to enable Intelligent authoring support:
-    
-     a. Select the **Settings** icon in the upper menu and then
-     select **General settings**.
-    
-     b. Set the **Intelligent authoring support with Copilot** toggle
-     to **On**.
-
-13. A new window appears asking you to **Name your topic** and provide a
+17. A new window appears asking you to **Name your topic** and provide a
     description in the **Create a topic to...** space. In the **Name
     your topic** field, enter the following text:
 
      +++Book a Real Estate Showing+++
 
-14. In the **Create a topic to...** field, enter the following text and
+18. In the **Create a topic to...** field, enter the following text and
     then select **Create**.
 
      +++Collect a user's full name, email, address of the property, and date
@@ -95,30 +105,36 @@
     
      ![A screenshot of a computer Description automatically generated](./media/image14.png)
 
-15. Select **Save** to save your changes.
+19. Select **Save** to save your changes. In the **Edit with Copilot** pane, enter +++**Add End conversation node**+++ under the **What do you want to do?** field and then new message not will get added.
+
+     ![A screenshot of a computer Description automatically generated](./media/image1.15.png)
+
+     ![A screenshot of a computer Description automatically generated](./media/image1.15.1.png)
+
+20. Select **Save** to save your changes.
 
      ![A screenshot of a computer Description automatically generated](./media/image15.png)
 
-16. From the right side of the screen, select **Test** and ‘Test your
+21. From the right side of the screen, select **Test** and ‘Test your
     agent’ pane will open.
 
      **Note**: Close the ‘Edit with copilot’ pane for more visibility.
     
      ![](./media/image16.png)
 
-17. In the Test your agent pane, enter the following trigger phrase and
+22. In the Test your agent pane, enter the following trigger phrase and
     click on send icon.
 
      +++I want to book a real estate showing+++
     
      ![](./media/image17.png)
 
-18. The agent responds with the "What is your full name?" question, as
+23. The agent responds with the "What is your full name?" question, as
     shown in the following image.
 
      ![A screenshot of a computer Description automatically generated](./media/image18.png)
 
-19. Enter the rest of the information:
+24. Enter the rest of the information:
 
      **Full name:** Enter your name
     
@@ -130,7 +146,7 @@
     
      ![A screenshot of a chat Description automatically generated](./media/image19.png)
 
-20. To test the ‘add knowledge’ property, enter +++What is Microsoft Power
+25. To test the ‘add knowledge’ property, enter +++What is Microsoft Power
     Platform?+++ The agent retrieves information from the website which we
     have provided while creating an agent and returns a response.
 
