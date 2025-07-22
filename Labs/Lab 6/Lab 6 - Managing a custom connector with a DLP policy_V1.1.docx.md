@@ -1,5 +1,7 @@
 # **Lab 6: Managing a custom connector with a DLP policy**
 
+**Objective**: In this lab, you will learn how to manage a custom connector within a Data Loss Prevention (DLP) policy. You will also learn how to publish the connector and, after deployment, how to add it to a DLP policy using the PowerShell cmdlets that are provided by Microsoft.
+
 ### **Task 1: Publish a custom connector**
 
 1.  Locate the **PowerPlatformConnectors-dev** zip file stored in
