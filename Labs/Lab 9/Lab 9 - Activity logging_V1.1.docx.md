@@ -1,6 +1,6 @@
 # **Lab 9: Activity logging**
 
-    **Objective**: In this lab you will learn how activities (Power Apps, Power Automate, Datavers etc) are tracked from the Microsoft Purview compliance portal. Logging takes place at the SDK layer, which means a single action can trigger multiple events that are logged.
+   **Objective**: In this lab you will learn how activities (Power Apps, Power Automate, Datavers etc) are tracked from the Microsoft Purview compliance portal. Logging takes place at the SDK layer, which means a single action can trigger multiple events that are logged.
 
 1.  Sign in to the Microsoft Purview portal using 
     +++https://purview.microsoft.com/+++ with your Office 365 tenant
