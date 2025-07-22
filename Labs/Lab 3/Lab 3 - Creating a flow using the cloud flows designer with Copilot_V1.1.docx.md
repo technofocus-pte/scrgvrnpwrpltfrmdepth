@@ -1,5 +1,7 @@
 # **Lab 3: Creating a flow using the cloud flows designer with Copilot**
 
+**Objective**: In this lab, you will learn how to create a flow using Copilot that triggers email notification based on SharePoint list activity.
+
 ### **Task 1: Create a flow using Copilot**
 
 1.  Sign in to +++https://make.powerautomate.com/+++ with your Office 365
