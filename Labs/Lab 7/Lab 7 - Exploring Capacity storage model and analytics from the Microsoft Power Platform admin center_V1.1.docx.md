@@ -121,13 +121,13 @@
 
      ![](./media/image2.4.1.png)
 
-5.  Since tenant-level analytics may take time to become available, we recommend following the steps below to understand the purpose of each sub-tab under the Overview tab.
+5.  Since tenant-level analytics may take time to become available, we recommend to follow the steps below to understand the purpose of each sub-tab under the Overview tab. Note that since we created only one app and one flow, the images of the analytics report used in the upcoming steps are not based on the tenant used for this lab.
 
 6.  After selecting **Usage** tab,
     Power Apps reports provide insights into tenant and environment
     usage and inventory of all apps and connector.
 
-     ![A screenshot of a computer Description automatically generated](./media/image22.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.6.png)
 
 7.  To see Maker Activity report, select **Maker activity** tab. You can see
     the following details on the report.
@@ -143,7 +143,7 @@
     - What is the total number of connections consumed in one or more
       environments?
     
-     ![A screenshot of a computer Description automatically generated](./media/image23.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.7.png)
 
 8.  To review, Inventory report, select App inventory.
 
@@ -157,7 +157,7 @@
     - What is the distribution of canvas versus model-driven apps across the
       organization?
     
-     ![A screenshot of a computer Description automatically generated](./media/image24.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.8.1.png)
 
 9.  Select **Power Automate** listed under **Products**.
 
@@ -165,8 +165,8 @@
 
 10.  Select **Maker activity** tab.
 
-     ![A screenshot of a computer Description automatically generated](./media/image26.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.10.png)
 
 11. Select **Inventory** tab.
 
-     ![A screenshot of a computer Description automatically generated](./media/image27.png)
+     ![A screenshot of a computer Description automatically generated](./media/image2.11.png)
